@@ -13,3 +13,4 @@ docker rm <cont_ID>               ## remove container
 docker rmi <Image_ID>             ## to remove image
 docker exec -it <cont_ID> bash    ## to enter into docker container
 ```
+<img width="453" height="266" alt="image" src="https://github.com/user-attachments/assets/66898e0a-1c49-4bfd-ae6a-ddd04332d7b2" />
